@@ -1,0 +1,8 @@
+{
+  "name": "WOW-Agent Demo",
+  "description": "Interactive AI Agent demonstrating live conversation capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
